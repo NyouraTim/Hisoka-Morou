@@ -289,7 +289,7 @@ jumlahharian = `${dataa.value}`
 	    let setting = global.db.data.settings[botNumber]
 	    if (new Date() * 1 - setting.status > 1000) {
 		let uptime = await runtime(process.uptime())
-		await papah.setStatus(`TimzzDev | Runtime : ${runtime(process.uptime())}
+		await papah.setStatus(`Timzz-Bot | Runtime : ${runtime(uptime)}`)
 		setting.status = new Date() * 1
 	    }
 	}
