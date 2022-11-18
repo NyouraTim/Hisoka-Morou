@@ -1,6 +1,6 @@
 # CATATAN ( NOTE )
 sc ini hanyalah hasil recode dari sc asli hisoka
-naze && papah hanya menghilangkat bug, memperbagus & menyeting banyak hal
+naze &&& papah, watim hanya menghilangkan bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
 #Sad-Bot
@@ -39,7 +39,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ```bash
 git clone https://github.com/FahriAdison/Sad-Bot-Case
-cd Sad-Bot Case
+cd Sad-Bot-Case
 npm install
 ```
 
